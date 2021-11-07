@@ -1,0 +1,18 @@
+
+body{
+    
+    margin: 0 auto; /* margin pour regler la marge et 0 pour dire 0 pixel de marge*/
+ 
+} 
+
+
+
+header.header img {
+    width: 75 px;
+}
+
+
+
+section.top-page { /* On prend la section qu'on veut stylisé et tout ce qu'on marquera après aura l'effet codé */
+        background: url("../Images/ia1.jpg");
+}
