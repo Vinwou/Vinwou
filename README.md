@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Vinwou
 - 👀 I’m interested in all sciences and knowledge, i begin everything and never finish anything (:
-- 🌱 I’m currently learning dev, code, info to make super lesson for student 
+- 🌱 I’m currently learning dev, code, info to make super lessons for student 
 - 💞️ I’m looking to collaborate on projets
-- 📫 How to reach me ...
+- 📫 How to reach me : Vincent.Chevalier@ac-creteil.fr	
 
 <!---
 Vinwou/Vinwou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
