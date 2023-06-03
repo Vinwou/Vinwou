@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinwou
+- 👋 Hi, I’m @Vinwou, teacher of industrial engineering sciences in the design and production of machining processes.
 - 👀 I’m interested in all sciences and knowledge, i begin everything and never finish anything (:
 - 🌱 I’m currently learning dev, code, info to make super lessons for student. At the moment I'm mainly using LateX to prepare my lessons.
 - 💞️ I work mainly for BTS students, to give them access to quality courses. 
